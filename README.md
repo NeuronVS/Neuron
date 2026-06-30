@@ -336,7 +336,4 @@ Only if you choose a hosted model provider. With BYOK or local models, everythin
 
 </div>
 
-**[⬇ Download Neuron](../../releases/latest)** · **[🐛 Report an Issue](../../issues/new)**
-
-</div>
 

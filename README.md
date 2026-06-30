@@ -4,8 +4,8 @@
 
 <div align="center">
 	<img
-		src="./cube.png"
-	 	alt="Void Welcome"
+		src="./Neuron_Logo.png"
+	 	alt="Neuron Welcome"
 		width="300"
 	 	height="300"
 	/>
